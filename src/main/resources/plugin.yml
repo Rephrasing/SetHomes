@@ -1,0 +1,15 @@
+name: SetHomes
+version: 1.0
+main: me.rephrasing.sethomes.SetHomes
+api-version: 1.18
+authors: [ Rephrasing ]
+description: Adds homes (waypoints) for players to be able to teleport to with the addition of configuration
+commands:
+  sethome:
+    usage: "§8[§6SetHomes§8] §c/sethome <homeName>"
+  home:
+    usage: "§8[§6SetHomes§8] §c/home <homeName>"
+  deletehome:
+    usage: "§8[§6SetHomes§8] §c/deletehome <homeName>"
+  homes:
+    usage: "§8[§6SetHomes§8] §c/homes"

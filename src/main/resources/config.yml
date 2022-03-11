@@ -1,0 +1,7 @@
+max-homes: 2
+# cooldowns are in seconds
+# if set to 0 there will be no cooldown
+cooldowns:
+  sethome: 5
+  home: 5
+  deletehome: 5
