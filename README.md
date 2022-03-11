@@ -15,6 +15,7 @@ Commands:
   - /sethome <HomeName> || sets up a home for the player and sets its location to their current one, if they have not exceeded the maximum amount of homes.
   - /home <HomeName> || allows a player to teleport to their home if they have a home with the name they pass in
   - /deletehome <HomeName> || allows a player to delet their home if they have a home with the name they pass in
+  - /homes || shows the player homes list if they have at least 1 home
   * More commands coming soon!
   
 
