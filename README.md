@@ -1,6 +1,10 @@
 # SetHomes
 
 Simple SetHomes Plugin (1.13 - 1.18.x)
+This plugin was tested on:
+- paper 1.13-1.18
+- spigot 1.13-1.18
+- bukkit 1.13-1.18
 
 Introduction:
 
